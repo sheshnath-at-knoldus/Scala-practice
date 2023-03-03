@@ -1,0 +1,1 @@
+class Trainexample (int: Number)
