@@ -40,3 +40,8 @@ class Trainexample (val string_value: String ,val Number_value :Int)
 print(string_value ,Number_value)
 }
 val object_train =new Trainexample("hello" ,20)
+
+
+
+var array_values =Array(1,2,3,4,5,)
+println(array_values)
