@@ -1,8 +1,9 @@
 import java.lang
 
-class mutable_fields {
-  var message ="hello world"
-  println(message)
+class mutable_fields
+{
+var message ="hello world"
+println(message)
 }
  val mutable_object = new  mutable_fields
 
@@ -43,5 +44,10 @@ val object_train =new Trainexample("hello" ,20)
 
 
 
-var array_values =Array(1,2,3,4,5,)
-println(array_values)
+//var array_values =Array(1,2,3,4,5,)
+//println(array_values)
+
+
+def name(first :String =" ", last :String =""):String=first+ " " +last
+
+name("Martin")
