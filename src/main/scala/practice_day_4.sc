@@ -21,7 +21,7 @@ for(i <- 0 to array.length -1)
 }
 
 
-// started the Rock the JVM course
+
 
 object Function extends App {
   def aFunction (a:String ,b  :Int ) :String = {
