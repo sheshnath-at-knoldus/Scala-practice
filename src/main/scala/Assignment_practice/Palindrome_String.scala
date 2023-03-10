@@ -1,3 +1,5 @@
+package Assignment_practice
+
 import scala.Console.println
 import scala.io.StdIn
 object Palindrome_String extends App {

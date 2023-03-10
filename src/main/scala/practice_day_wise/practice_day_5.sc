@@ -31,8 +31,7 @@ val  acodeblock : Int  ={
   val y =12
   val z = 900
   val  a = y+z +'q'
-  val c = a
-  c
+  a
 }
 println(acodeblock)
 

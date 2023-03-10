@@ -1,3 +1,5 @@
+package Assignment_practice
+
 import scala.io.StdIn
 
 object Countdivisor extends App {
